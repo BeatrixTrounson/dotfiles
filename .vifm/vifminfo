@@ -1,0 +1,95 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/beatrix/
+	..
+1548736619
+'b
+	/home/beatrix/bin/
+	..
+1548736619
+'h
+	/home/beatrix/
+	..
+1548736619
+'z
+	/home/beatrix/.vifm
+	..
+1548736619
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/beatrix
+	..
+0
+d/home
+	beatrix
+1
+d/home/beatrix
+	..
+0
+d/home
+	beatrix
+1
+d/
+	opt
+9
+d/opt
+	..
+0
+d/
+	home
+4
+d/home
+	beatrix
+1
+d/home/beatrix
+	Pictures
+3
+d/home/beatrix/Pictures
+	vimfm.pdf
+15
+d
+
+# Right window history (oldest to newest):
+D/home/beatrix
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
