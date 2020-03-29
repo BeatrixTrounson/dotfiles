@@ -1,10 +1,2 @@
 [Added Associations]
-image/jpeg=firefox.desktop;
-image/png=firefox.desktop;
-application/pdf=qutebrowser.desktop;feh.desktop;
-application/x-shellscript=nvim.desktop;
-application/x-java-archive=sun-java-jre8.desktop;
-video/x-flv=vlc.desktop;
-
-[Default Applications]
-application/pdf=feh.desktop
+application/pdf=xreader.desktop;
