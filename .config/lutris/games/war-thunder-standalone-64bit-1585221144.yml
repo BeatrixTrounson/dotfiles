@@ -1,0 +1,4 @@
+game:
+  exe: /home/bitcastle/Games/war-thunder/launcher
+system:
+  terminal: true

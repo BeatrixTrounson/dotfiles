@@ -1,0 +1,477 @@
+21:20:40.949: CPU Name: AMD Ryzen 3 2200G with Radeon Vega Graphics
+21:20:40.949: CPU Speed: 3565.334MHz
+21:20:40.949: Physical Cores: 4, Logical Cores: 4
+21:20:40.949: Physical Memory: 16021MB Total, 11764MB Free
+21:20:40.949: Kernel Version: Linux 5.5.9-arch1-2
+21:20:40.950: Distribution: "Arch Linux" Unknown
+21:20:40.950: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.7
+21:20:40.951: Portable mode: false
+21:20:40.991: OBS 24.0.6-1 (linux)
+21:20:40.991: ---------------------------------
+21:20:40.991: ---------------------------------
+21:20:40.991: audio settings reset:
+21:20:40.991: 	samples per sec: 44100
+21:20:40.991: 	speakers:        2
+21:20:40.996: ---------------------------------
+21:20:40.996: Initializing OpenGL...
+21:20:41.093: Loading up OpenGL on adapter X.Org Radeon RX 570 Series (POLARIS10, DRM 3.36.0, 5.5.9-arch1-2, LLVM 9.0.1)
+21:20:41.093: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 19.3.4, shading language 4.50
+21:20:41.111: ---------------------------------
+21:20:41.111: video settings reset:
+21:20:41.111: 	base resolution:   1920x1080
+21:20:41.111: 	output resolution: 1280x720
+21:20:41.111: 	downscale filter:  Bicubic
+21:20:41.111: 	fps:               60/1
+21:20:41.111: 	format:            NV12
+21:20:41.111: 	YUV mode:          601/Partial
+21:20:41.111: NV12 texture support not available
+21:20:41.113: Audio monitoring device:
+21:20:41.113: 	name: Default
+21:20:41.113: 	id: default
+21:20:41.113: ---------------------------------
+21:20:41.116: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+21:20:41.204: No blackmagic support
+21:20:41.220: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+21:20:41.220: 
+21:20:41.220: FFMPEG VAAPI supported
+21:20:41.222: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.2: cannot open shared object file: No such file or directory
+21:20:41.222: 
+21:20:41.222: Module '/usr//lib/obs-plugins/obs-libfdk.so' not loaded
+21:20:41.239: VLC found, VLC video source enabled
+21:20:41.239: ---------------------------------
+21:20:41.239:   Loaded Modules:
+21:20:41.239:     vlc-video.so
+21:20:41.239:     text-freetype2.so
+21:20:41.239:     rtmp-services.so
+21:20:41.239:     obs-x264.so
+21:20:41.239:     obs-transitions.so
+21:20:41.239:     obs-outputs.so
+21:20:41.239:     obs-filters.so
+21:20:41.239:     obs-ffmpeg.so
+21:20:41.239:     linux-v4l2.so
+21:20:41.240:     linux-pulseaudio.so
+21:20:41.240:     linux-jack.so
+21:20:41.240:     linux-decklink.so
+21:20:41.240:     linux-capture.so
+21:20:41.240:     linux-alsa.so
+21:20:41.240:     image-source.so
+21:20:41.240:     frontend-tools.so
+21:20:41.240:     decklink-ouput-ui.so
+21:20:41.240: ---------------------------------
+21:20:41.241: ==== Startup complete ===============================================
+21:20:41.241: Service '' not found
+21:20:41.244: All scene data cleared
+21:20:41.244: ------------------------------------------------
+21:20:41.247: pulse-input: Server name: 'pulseaudio 13.0'
+21:20:41.248: pulse-input: Audio format: s24le, 44100 Hz, 2 channels
+21:20:41.248: pulse-input: Sample format s24le not supported by OBS,using float32le instead for recording
+21:20:41.248: pulse-input: Started recording from 'alsa_output.usb-Blue_Microphones_Yeti_Nano_8831B13466040506-00.analog-stereo.monitor'
+21:20:41.248: pulse-input: Server name: 'pulseaudio 13.0'
+21:20:41.248: pulse-input: Audio format: s24le, 44100 Hz, 2 channels
+21:20:41.248: pulse-input: Sample format s24le not supported by OBS,using float32le instead for recording
+21:20:41.248: pulse-input: Started recording from 'alsa_input.usb-Blue_Microphones_Yeti_Nano_8831B13466040506-00.analog-stereo'
+21:20:41.250: Switched to scene 'Scene'
+21:20:41.250: ------------------------------------------------
+21:20:41.250: Loaded scenes:
+21:20:41.250: - scene 'Scene':
+21:20:41.250:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+21:20:41.250: ------------------------------------------------
+21:20:41.800: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Mic/Aux)
+21:20:41.800: 
+21:21:33.704: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:21:33.704: 	title: Overwatch
+21:21:33.704: 	class: overwatch.exe
+21:21:33.704: 	Bit depth: 24
+21:21:33.704: 	Found proper GLXFBConfig (in 368): yes
+21:21:33.704: 
+21:22:16.085: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:16.085: 	title: Overwatch
+21:22:16.085: 	class: overwatch.exe
+21:22:16.085: 	Bit depth: 24
+21:22:16.085: 	Found proper GLXFBConfig (in 368): yes
+21:22:16.085: 
+21:22:18.132: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:18.132: 	title: Overwatch
+21:22:18.132: 	class: overwatch.exe
+21:22:18.132: 	Bit depth: 24
+21:22:18.132: 	Found proper GLXFBConfig (in 368): yes
+21:22:18.132: 
+21:22:19.566: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:19.566: 	title: Overwatch
+21:22:19.566: 	class: overwatch.exe
+21:22:19.566: 	Bit depth: 24
+21:22:19.566: 	Found proper GLXFBConfig (in 368): yes
+21:22:19.566: 
+21:22:20.149: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:20.149: 	title: Overwatch
+21:22:20.149: 	class: overwatch.exe
+21:22:20.149: 	Bit depth: 24
+21:22:20.149: 	Found proper GLXFBConfig (in 368): yes
+21:22:20.149: 
+21:22:20.515: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:20.515: 	title: Overwatch
+21:22:20.515: 	class: overwatch.exe
+21:22:20.515: 	Bit depth: 24
+21:22:20.515: 	Found proper GLXFBConfig (in 368): yes
+21:22:20.515: 
+21:22:20.681: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:20.681: 	title: Overwatch
+21:22:20.681: 	class: overwatch.exe
+21:22:20.681: 	Bit depth: 24
+21:22:20.681: 	Found proper GLXFBConfig (in 368): yes
+21:22:20.681: 
+21:22:27.836: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:27.836: 	title: Overwatch
+21:22:27.836: 	class: overwatch.exe
+21:22:27.836: 	Bit depth: 24
+21:22:27.836: 	Found proper GLXFBConfig (in 368): yes
+21:22:27.836: 
+21:22:28.500: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:28.500: 	title: Overwatch
+21:22:28.500: 	class: overwatch.exe
+21:22:28.500: 	Bit depth: 24
+21:22:28.500: 	Found proper GLXFBConfig (in 368): yes
+21:22:28.500: 
+21:22:31.566: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:31.566: 	title: Overwatch
+21:22:31.566: 	class: overwatch.exe
+21:22:31.566: 	Bit depth: 24
+21:22:31.566: 	Found proper GLXFBConfig (in 368): yes
+21:22:31.566: 
+21:22:37.749: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:37.749: 	title: Overwatch
+21:22:37.749: 	class: overwatch.exe
+21:22:37.749: 	Bit depth: 24
+21:22:37.749: 	Found proper GLXFBConfig (in 368): yes
+21:22:37.749: 
+21:22:39.452: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:39.452: 	title: Overwatch
+21:22:39.452: 	class: overwatch.exe
+21:22:39.452: 	Bit depth: 24
+21:22:39.452: 	Found proper GLXFBConfig (in 368): yes
+21:22:39.452: 
+21:22:43.667: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:43.667: 	title: Overwatch
+21:22:43.667: 	class: overwatch.exe
+21:22:43.667: 	Bit depth: 24
+21:22:43.667: 	Found proper GLXFBConfig (in 368): yes
+21:22:43.667: 
+21:22:44.400: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:44.400: 	title: Overwatch
+21:22:44.400: 	class: overwatch.exe
+21:22:44.400: 	Bit depth: 24
+21:22:44.400: 	Found proper GLXFBConfig (in 368): yes
+21:22:44.400: 
+21:22:45.016: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:22:45.016: 	title: Overwatch
+21:22:45.016: 	class: overwatch.exe
+21:22:45.016: 	Bit depth: 24
+21:22:45.016: 	Found proper GLXFBConfig (in 368): yes
+21:22:45.016: 
+21:24:05.501: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+21:24:05.501: 	title: Overwatch
+21:24:05.501: 	class: overwatch.exe
+21:24:05.501: 	Bit depth: 24
+21:24:05.501: 	Found proper GLXFBConfig (in 368): yes
+21:24:05.501: 
+21:24:36.463: ---------------------------------
+21:24:36.463: video settings reset:
+21:24:36.463: 	base resolution:   1920x1080
+21:24:36.463: 	output resolution: 1280x720
+21:24:36.463: 	downscale filter:  Lanczos
+21:24:36.463: 	fps:               60/1
+21:24:36.463: 	format:            NV12
+21:24:36.463: 	YUV mode:          601/Partial
+21:24:36.463: NV12 texture support not available
+21:24:36.464: Settings changed (video)
+21:24:36.464: ------------------------------------------------
+21:24:48.877: Settings changed (outputs)
+21:24:48.877: ------------------------------------------------
+21:27:16.534: Settings changed (outputs)
+21:27:16.534: ------------------------------------------------
+21:27:28.174: Failed to open video codec: Invalid argument
+21:27:28.174: ffmpeg_data_init failed
+21:27:28.174: ==== Recording Stop ================================================
+21:27:55.145: Settings changed (outputs)
+21:27:55.145: ------------------------------------------------
+21:27:56.424: Failed to open video codec: Invalid argument
+21:27:56.424: ffmpeg_data_init failed
+21:27:56.424: ==== Recording Stop ================================================
+21:28:12.017: Settings changed (outputs)
+21:28:12.017: ------------------------------------------------
+21:28:13.603: ---------------------------------
+21:28:13.603: [FFMPEG VAAPI encoder: 'recording_h264'] settings:
+21:28:13.603: 	device:       /dev/dri/renderD128
+21:28:13.603: 	qp:           20
+21:28:13.603: 	quality:      0
+21:28:13.603: 	profile:      578
+21:28:13.603: 	level:        41
+21:28:13.603: 	bitrate:      0
+21:28:13.603: 	keyint:       120
+21:28:13.603: 	width:        1280
+21:28:13.603: 	height:       720
+21:28:13.603: 	b-frames:     0
+21:28:13.603: 
+21:28:13.634: ---------------------------------
+21:28:13.634: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+21:28:13.634: 
+21:28:13.636: ---------------------------------
+21:28:13.636: [FFmpeg aac encoder: 'Track2'] bitrate: 160, channels: 2, channel_layout: 3
+21:28:13.636: 
+21:28:13.637: ==== Recording Start ===============================================
+21:28:13.637: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/bitcastle/2020-03-27 21-28-13.mkv'...
+21:28:23.677: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/bitcastle/2020-03-27 21-28-13.mkv' stopped
+21:28:23.677: Output 'adv_file_output': stopping
+21:28:23.677: Output 'adv_file_output': Total frames output: 594
+21:28:23.677: Output 'adv_file_output': Total drawn frames: 601 (602 attempted)
+21:28:23.677: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.2%)
+21:28:23.677: Video stopped, number of skipped frames due to encoding lag: 2/601 (0.3%)
+21:28:23.677: Video stopped, number of skipped frames due to encoding lag: 2/601 (0.3%)
+21:28:23.677: ==== Recording Stop ================================================
+21:28:35.741: ---------------------------------
+21:28:35.741: [FFMPEG VAAPI encoder: 'recording_h264'] settings:
+21:28:35.741: 	device:       /dev/dri/renderD128
+21:28:35.741: 	qp:           20
+21:28:35.741: 	quality:      0
+21:28:35.741: 	profile:      578
+21:28:35.741: 	level:        41
+21:28:35.741: 	bitrate:      0
+21:28:35.741: 	keyint:       120
+21:28:35.741: 	width:        1280
+21:28:35.741: 	height:       720
+21:28:35.741: 	b-frames:     0
+21:28:35.741: 
+21:28:35.752: ---------------------------------
+21:28:35.752: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+21:28:35.752: 
+21:28:35.752: ---------------------------------
+21:28:35.753: [FFmpeg aac encoder: 'Track2'] bitrate: 160, channels: 2, channel_layout: 3
+21:28:35.753: 
+21:28:35.754: ==== Recording Start ===============================================
+21:28:35.754: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/bitcastle/2020-03-27 21-28-35.mkv'...
+21:28:40.352: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/bitcastle/2020-03-27 21-28-35.mkv' stopped
+21:28:40.352: Output 'adv_file_output': stopping
+21:28:40.352: Output 'adv_file_output': Total frames output: 268
+21:28:40.352: Output 'adv_file_output': Total drawn frames: 276
+21:28:40.352: ==== Recording Stop ================================================
+21:28:40.357: Video stopped, number of skipped frames due to encoding lag: 1/275 (0.4%)
+21:29:11.047: ---------------------------------
+21:29:11.047: video settings reset:
+21:29:11.047: 	base resolution:   1920x1080
+21:29:11.047: 	output resolution: 1280x720
+21:29:11.047: 	downscale filter:  Lanczos
+21:29:11.047: 	fps:               60/1
+21:29:11.047: 	format:            RGBA
+21:29:11.047: 	YUV mode:          None
+21:29:11.047: GPU conversion not available for format: 6
+21:29:11.047: NV12 texture support not available
+21:29:11.049: Settings changed (advanced)
+21:29:11.049: ------------------------------------------------
+21:29:13.533: ---------------------------------
+21:29:13.533: video settings reset:
+21:29:13.533: 	base resolution:   1920x1080
+21:29:13.533: 	output resolution: 1280x720
+21:29:13.533: 	downscale filter:  Lanczos
+21:29:13.533: 	fps:               60/1
+21:29:13.533: 	format:            RGBA
+21:29:13.533: 	YUV mode:          None
+21:29:13.533: GPU conversion not available for format: 6
+21:29:13.533: NV12 texture support not available
+21:29:13.534: Settings changed (advanced)
+21:29:13.534: ------------------------------------------------
+21:29:16.234: ---------------------------------
+21:29:16.234: video settings reset:
+21:29:16.234: 	base resolution:   1920x1080
+21:29:16.234: 	output resolution: 1280x720
+21:29:16.234: 	downscale filter:  Lanczos
+21:29:16.234: 	fps:               60/1
+21:29:16.234: 	format:            RGBA
+21:29:16.234: 	YUV mode:          None
+21:29:16.234: GPU conversion not available for format: 6
+21:29:16.234: NV12 texture support not available
+21:29:16.234: Settings changed (advanced)
+21:29:16.234: ------------------------------------------------
+21:51:15.176: ---------------------------------
+21:51:15.176: [FFMPEG VAAPI encoder: 'recording_h264'] settings:
+21:51:15.176: 	device:       /dev/dri/renderD128
+21:51:15.176: 	qp:           20
+21:51:15.176: 	quality:      0
+21:51:15.176: 	profile:      578
+21:51:15.176: 	level:        41
+21:51:15.176: 	bitrate:      0
+21:51:15.176: 	keyint:       120
+21:51:15.176: 	width:        1280
+21:51:15.176: 	height:       720
+21:51:15.176: 	b-frames:     0
+21:51:15.176: 
+21:51:15.185: ---------------------------------
+21:51:15.186: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+21:51:15.186: 
+21:51:15.186: ---------------------------------
+21:51:15.186: [FFmpeg aac encoder: 'Track2'] bitrate: 160, channels: 2, channel_layout: 3
+21:51:15.186: 
+21:51:15.188: ==== Recording Start ===============================================
+21:51:15.188: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/bitcastle/2020-03-27 21-51-15.mkv'...
+21:51:46.702: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/bitcastle/2020-03-27 21-51-15.mkv' stopped
+21:51:46.702: Output 'adv_file_output': stopping
+21:51:46.702: Output 'adv_file_output': Total frames output: 1883
+21:51:46.702: Output 'adv_file_output': Total drawn frames: 1889 (1891 attempted)
+21:51:46.702: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 2 (0.1%)
+21:51:46.702: Video stopped, number of skipped frames due to encoding lag: 4/1889 (0.2%)
+21:51:46.702: Video stopped, number of skipped frames due to encoding lag: 4/1889 (0.2%)
+21:51:46.702: ==== Recording Stop ================================================
+21:52:02.421: Settings changed (outputs)
+21:52:02.421: ------------------------------------------------
+21:52:04.317: ---------------------------------
+21:52:04.318: [FFMPEG VAAPI encoder: 'recording_h264'] settings:
+21:52:04.318: 	device:       /dev/dri/renderD128
+21:52:04.318: 	qp:           20
+21:52:04.318: 	quality:      0
+21:52:04.318: 	profile:      578
+21:52:04.318: 	level:        41
+21:52:04.318: 	bitrate:      15000
+21:52:04.318: 	keyint:       120
+21:52:04.318: 	width:        1280
+21:52:04.318: 	height:       720
+21:52:04.318: 	b-frames:     0
+21:52:04.318: 
+21:52:04.331: ---------------------------------
+21:52:04.331: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+21:52:04.331: 
+21:52:04.332: ---------------------------------
+21:52:04.332: [FFmpeg aac encoder: 'Track2'] bitrate: 160, channels: 2, channel_layout: 3
+21:52:04.332: 
+21:52:04.333: ==== Recording Start ===============================================
+21:52:04.333: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/bitcastle/2020-03-27 21-52-04.mkv'...
+21:52:24.420: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/bitcastle/2020-03-27 21-52-04.mkv' stopped
+21:52:24.420: Output 'adv_file_output': stopping
+21:52:24.420: Output 'adv_file_output': Total frames output: 1197
+21:52:24.420: Output 'adv_file_output': Total drawn frames: 1205 (1206 attempted)
+21:52:24.420: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.1%)
+21:52:24.421: ==== Recording Stop ================================================
+21:52:24.425: Video stopped, number of skipped frames due to encoding lag: 4/1204 (0.3%)
+21:52:35.288: Settings changed (outputs)
+21:52:35.288: ------------------------------------------------
+21:52:36.644: ---------------------------------
+21:52:36.644: [FFMPEG VAAPI encoder: 'recording_h264'] settings:
+21:52:36.644: 	device:       /dev/dri/renderD128
+21:52:36.644: 	qp:           20
+21:52:36.644: 	quality:      0
+21:52:36.644: 	profile:      578
+21:52:36.644: 	level:        41
+21:52:36.644: 	bitrate:      10000
+21:52:36.644: 	keyint:       120
+21:52:36.644: 	width:        1280
+21:52:36.644: 	height:       720
+21:52:36.644: 	b-frames:     0
+21:52:36.644: 
+21:52:36.661: ---------------------------------
+21:52:36.661: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+21:52:36.661: 
+21:52:36.662: ---------------------------------
+21:52:36.662: [FFmpeg aac encoder: 'Track2'] bitrate: 160, channels: 2, channel_layout: 3
+21:52:36.662: 
+21:52:36.663: ==== Recording Start ===============================================
+21:52:36.664: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/bitcastle/2020-03-27 21-52-36.mkv'...
+22:10:41.623: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/bitcastle/2020-03-27 21-52-36.mkv' stopped
+22:10:41.623: Output 'adv_file_output': stopping
+22:10:41.623: Output 'adv_file_output': Total frames output: 65088
+22:10:41.623: Output 'adv_file_output': Total drawn frames: 65096 (65098 attempted)
+22:10:41.623: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 2 (0.0%)
+22:10:41.624: Video stopped, number of skipped frames due to encoding lag: 3/65096 (0.0%)
+22:10:41.624: ==== Recording Stop ================================================
+22:11:23.388: Settings changed (outputs)
+22:11:23.388: ------------------------------------------------
+22:12:22.120: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+22:12:22.120: 	title: Overwatch
+22:12:22.120: 	class: overwatch.exe
+22:12:22.120: 	Bit depth: 24
+22:12:22.120: 	Found proper GLXFBConfig (in 368): yes
+22:12:22.120: 
+22:12:30.070: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+22:12:30.070: 	title: Overwatch
+22:12:30.070: 	class: overwatch.exe
+22:12:30.070: 	Bit depth: 24
+22:12:30.070: 	Found proper GLXFBConfig (in 368): yes
+22:12:30.070: 
+22:14:35.249: ---------------------------------
+22:14:35.249: [FFMPEG VAAPI encoder: 'recording_h264'] settings:
+22:14:35.249: 	device:       /dev/dri/renderD128
+22:14:35.249: 	qp:           20
+22:14:35.249: 	quality:      0
+22:14:35.249: 	profile:      578
+22:14:35.249: 	level:        40
+22:14:35.249: 	bitrate:      10000
+22:14:35.249: 	keyint:       120
+22:14:35.249: 	width:        1280
+22:14:35.249: 	height:       720
+22:14:35.249: 	b-frames:     0
+22:14:35.249: 
+22:14:35.258: ---------------------------------
+22:14:35.258: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+22:14:35.258: 
+22:14:35.259: ---------------------------------
+22:14:35.259: [FFmpeg aac encoder: 'Track2'] bitrate: 160, channels: 2, channel_layout: 3
+22:14:35.259: 
+22:14:35.260: ==== Recording Start ===============================================
+22:14:35.260: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/bitcastle/2020-03-27 22-14-35.mkv'...
+22:51:02.118: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/bitcastle/2020-03-27 22-14-35.mkv' stopped
+22:51:02.118: Output 'adv_file_output': stopping
+22:51:02.118: Output 'adv_file_output': Total frames output: 131203
+22:51:02.118: Output 'adv_file_output': Total drawn frames: 131209 (131212 attempted)
+22:51:02.118: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 3 (0.0%)
+22:51:02.118: ==== Recording Stop ================================================
+22:51:02.118: Video stopped, number of skipped frames due to encoding lag: 1/131210 (0.0%)
+22:53:38.135: ---------------------------------
+22:53:38.137: [FFMPEG VAAPI encoder: 'recording_h264'] settings:
+22:53:38.137: 	device:       /dev/dri/renderD128
+22:53:38.137: 	qp:           20
+22:53:38.137: 	quality:      0
+22:53:38.137: 	profile:      578
+22:53:38.137: 	level:        40
+22:53:38.137: 	bitrate:      10000
+22:53:38.137: 	keyint:       120
+22:53:38.137: 	width:        1280
+22:53:38.137: 	height:       720
+22:53:38.137: 	b-frames:     0
+22:53:38.137: 
+22:53:38.189: ---------------------------------
+22:53:38.189: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+22:53:38.189: 
+22:53:38.190: ---------------------------------
+22:53:38.190: [FFmpeg aac encoder: 'Track2'] bitrate: 160, channels: 2, channel_layout: 3
+22:53:38.190: 
+22:53:38.192: ==== Recording Start ===============================================
+22:53:38.192: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/bitcastle/2020-03-27 22-53-38.mkv'...
+23:01:44.938: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/bitcastle/2020-03-27 22-53-38.mkv' stopped
+23:01:44.938: Output 'adv_file_output': stopping
+23:01:44.938: Output 'adv_file_output': Total frames output: 29195
+23:01:44.938: Output 'adv_file_output': Total drawn frames: 29205
+23:01:44.938: Video stopped, number of skipped frames due to encoding lag: 1/29203 (0.0%)
+23:01:44.938: ==== Recording Stop ================================================
+02:41:36.098: adding 23 milliseconds of audio buffering, total audio buffering is now 69 milliseconds (source: Mic/Aux)
+02:41:36.098: 
+05:50:48.638: adding 23 milliseconds of audio buffering, total audio buffering is now 92 milliseconds (source: Desktop Audio)
+05:50:48.638: 
+05:50:50.205: adding 23 milliseconds of audio buffering, total audio buffering is now 116 milliseconds (source: Mic/Aux)
+05:50:50.205: 
+05:50:54.492: adding 23 milliseconds of audio buffering, total audio buffering is now 139 milliseconds (source: Desktop Audio)
+05:50:54.492: 
+05:51:20.080: adding 23 milliseconds of audio buffering, total audio buffering is now 162 milliseconds (source: Desktop Audio)
+05:51:20.080: 
+06:14:44.084: ==== Shutting down ==================================================
+06:14:44.119: Switched to scene '(null)'
+06:14:44.143: pulse-input: Stopped recording from 'alsa_output.usb-Blue_Microphones_Yeti_Nano_8831B13466040506-00.analog-stereo.monitor'
+06:14:44.143: pulse-input: Got 45916465 packets with 5222958764 frames
+06:14:44.143: pulse-input: Stopped recording from 'alsa_input.usb-Blue_Microphones_Yeti_Nano_8831B13466040506-00.analog-stereo'
+06:14:44.143: pulse-input: Got 11770777 packets with 5222723026 frames
+06:14:44.146: All scene data cleared
+06:14:44.146: ------------------------------------------------
+06:14:44.165: Failed to fetch parent window geometry!
+06:14:44.165: Failed to fetch parent window geometry!
+06:14:44.165: Failed to fetch parent window geometry!
+06:14:44.165: Failed to fetch parent window geometry!
+06:14:44.183: Failed to fetch parent window geometry!
+06:14:44.183: Failed to fetch parent window geometry!
+06:14:44.183: Failed to fetch parent window geometry!
+06:14:44.183: Failed to fetch parent window geometry!

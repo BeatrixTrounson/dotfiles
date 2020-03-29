@@ -1,0 +1,118 @@
+23:01:27.639: CPU Name: AMD Ryzen 3 2200G with Radeon Vega Graphics
+23:01:27.639: CPU Speed: 3667.320MHz
+23:01:27.639: Physical Cores: 4, Logical Cores: 4
+23:01:27.639: Physical Memory: 16021MB Total, 3664MB Free
+23:01:27.639: Kernel Version: Linux 5.5.13-arch1-1
+23:01:27.639: Distribution: "Arch Linux" Unknown
+23:01:27.640: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.7
+23:01:27.640: Portable mode: false
+23:01:27.687: OBS 25.0.3-1 (linux)
+23:01:27.687: ---------------------------------
+23:01:27.688: ---------------------------------
+23:01:27.688: audio settings reset:
+23:01:27.688: 	samples per sec: 44100
+23:01:27.688: 	speakers:        2
+23:01:27.697: ---------------------------------
+23:01:27.697: Initializing OpenGL...
+23:01:27.822: Loading up OpenGL on adapter X.Org Radeon RX 570 Series (POLARIS10, DRM 3.36.0, 5.5.13-arch1-1, LLVM 9.0.1)
+23:01:27.822: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 19.3.4, shading language 4.50
+23:01:27.842: ---------------------------------
+23:01:27.842: video settings reset:
+23:01:27.842: 	base resolution:   1920x1080
+23:01:27.842: 	output resolution: 1920x1080
+23:01:27.842: 	downscale filter:  Bilinear
+23:01:27.842: 	fps:               60/1
+23:01:27.842: 	format:            RGBA
+23:01:27.842: 	YUV mode:          None
+23:01:27.842: GPU conversion not available for format: 6
+23:01:27.842: NV12 texture support not available
+23:01:27.846: Audio monitoring device:
+23:01:27.846: 	name: Default
+23:01:27.846: 	id: default
+23:01:27.846: ---------------------------------
+23:01:27.851: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+23:01:27.938: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+23:01:27.938: No blackmagic support
+23:01:28.649: NVENC supported
+23:01:28.649: FFMPEG VAAPI supported
+23:01:28.685: VLC found, VLC video source enabled
+23:01:28.685: ---------------------------------
+23:01:28.686:   Loaded Modules:
+23:01:28.686:     vlc-video.so
+23:01:28.686:     text-freetype2.so
+23:01:28.686:     rtmp-services.so
+23:01:28.686:     obs-x264.so
+23:01:28.686:     obs-transitions.so
+23:01:28.686:     obs-outputs.so
+23:01:28.686:     obs-libfdk.so
+23:01:28.686:     obs-filters.so
+23:01:28.686:     obs-ffmpeg.so
+23:01:28.686:     linux-v4l2.so
+23:01:28.686:     linux-pulseaudio.so
+23:01:28.686:     linux-jack.so
+23:01:28.686:     linux-decklink.so
+23:01:28.686:     linux-capture.so
+23:01:28.686:     linux-alsa.so
+23:01:28.686:     image-source.so
+23:01:28.686:     frontend-tools.so
+23:01:28.686:     decklink-ouput-ui.so
+23:01:28.686: ---------------------------------
+23:01:28.686: ==== Startup complete ===============================================
+23:01:28.687: Service '' not found
+23:01:28.692: All scene data cleared
+23:01:28.692: ------------------------------------------------
+23:01:28.696: pulse-input: Server name: 'pulseaudio 13.0'
+23:01:28.696: pulse-input: An error occurred while getting the source info!
+23:01:28.696: pulse-input: Server name: 'pulseaudio 13.0'
+23:01:28.696: pulse-input: Audio format: s24le, 44100 Hz, 2 channels
+23:01:28.696: pulse-input: Sample format s24le not supported by OBS,using float32le instead for recording
+23:01:28.696: pulse-input: Started recording from 'alsa_input.usb-Blue_Microphones_Yeti_Nano_8831B13466040506-00.analog-stereo'
+23:01:28.697: xshm-input: Geometry 1920x1080 @ 0,0
+23:01:28.737: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+23:01:28.737: 	title: Minecraft* 1.15.2 - Multiplayer (3rd-party)
+23:01:28.737: 	class: Minecraft* 1.15.2
+23:01:28.737: 	Bit depth: 24
+23:01:28.737: 	Found proper GLXFBConfig (in 368): yes
+23:01:28.737: 
+23:01:28.738: Switched to scene 'Scene'
+23:01:28.738: ------------------------------------------------
+23:01:28.738: Loaded scenes:
+23:01:28.738: - scene 'Scene':
+23:01:28.738:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+23:01:28.738:     - source: 'Screen Capture (XSHM)' (xshm_input)
+23:01:28.738: ------------------------------------------------
+23:02:21.305: Settings changed (outputs)
+23:02:21.305: ------------------------------------------------
+23:02:26.460: ---------------------------------
+23:02:26.460: [FFMPEG VAAPI encoder: 'recording_h264'] settings:
+23:02:26.460: 	device:       /dev/dri/renderD128
+23:02:26.460: 	rate_control: CQP
+23:02:26.460: 	profile:      578
+23:02:26.460: 	level:        42
+23:02:26.460: 	qp:           15
+23:02:26.460: 	bitrate:      0
+23:02:26.460: 	maxrate:      0
+23:02:26.460: 	keyint:       120
+23:02:26.460: 	width:        1920
+23:02:26.460: 	height:       1080
+23:02:26.460: 	b-frames:     0
+23:02:26.460: 
+23:02:26.524: libfdk_aac encoder created
+23:02:26.525: libfdk_aac bitrate: 160, channels: 2
+23:02:26.525: libfdk_aac encoder created
+23:02:26.525: libfdk_aac bitrate: 160, channels: 2
+23:02:26.540: ==== Recording Start ===============================================
+23:02:26.540: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/bitcastle/2020-03-29 23-02-26.mkv'...
+23:06:43.237: Settings changed (outputs)
+23:06:43.237: ------------------------------------------------
+23:09:54.602: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/bitcastle/2020-03-29 23-02-26.mkv' stopped
+23:09:54.602: Output 'adv_file_output': stopping
+23:09:54.602: Output 'adv_file_output': Total frames output: 14183
+23:09:54.602: Output 'adv_file_output': Total drawn frames: 26694 (26884 attempted)
+23:09:54.602: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 190 (0.7%)
+23:09:54.603: ==== Recording Stop ================================================
+23:09:54.642: Video stopped, number of skipped frames due to encoding lag: 14125/14185 (99.6%)
+23:09:54.648: libfdk_aac encoder destroyed
+23:09:54.648: libfdk_aac encoder destroyed
+23:25:20.383: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Mic/Aux)
+23:25:20.383: 

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModsConfigData>
+  <version>1.1.2579 rev1092</version>
+  <activeMods>
+    <li>brrainz.harmony</li>
+    <li>ludeon.rimworld</li>
+    <li>unlimitedhugs.hugslib</li>
+    <li>edb.preparecarefully</li>
+    <li>fluffy.colonymanager</li>
+    <li>orion.hospitality</li>
+    <li>ghxx.techadvancing</li>
+    <li>dubwise.dubsbadhygiene</li>
+    <li>rah.rbse</li>
+    <li>avilmask.commonsense</li>
+    <li>crlsniper.realisticrooms</li>
+    <li>notfood.researchpal</li>
+    <li>hoodie.whileyoureup</li>
+  </activeMods>
+  <knownExpansions />
+</ModsConfigData>

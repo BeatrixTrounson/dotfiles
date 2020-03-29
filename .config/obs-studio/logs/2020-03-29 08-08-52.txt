@@ -1,0 +1,132 @@
+08:08:52.627: CPU Name: AMD Ryzen 3 2200G with Radeon Vega Graphics
+08:08:52.627: CPU Speed: 2998.363MHz
+08:08:52.627: Physical Cores: 4, Logical Cores: 4
+08:08:52.627: Physical Memory: 16021MB Total, 11740MB Free
+08:08:52.627: Kernel Version: Linux 5.5.9-arch1-2
+08:08:52.627: Distribution: "Arch Linux" Unknown
+08:08:52.627: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.7
+08:08:52.628: Portable mode: false
+08:08:52.681: OBS 25.0.3-1 (linux)
+08:08:52.681: ---------------------------------
+08:08:52.682: ---------------------------------
+08:08:52.682: audio settings reset:
+08:08:52.682: 	samples per sec: 44100
+08:08:52.682: 	speakers:        2
+08:08:52.691: ---------------------------------
+08:08:52.691: Initializing OpenGL...
+08:08:52.826: Loading up OpenGL on adapter X.Org Radeon RX 570 Series (POLARIS10, DRM 3.36.0, 5.5.9-arch1-2, LLVM 9.0.1)
+08:08:52.827: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 19.3.4, shading language 4.50
+08:08:52.890: ---------------------------------
+08:08:52.890: video settings reset:
+08:08:52.890: 	base resolution:   1920x1080
+08:08:52.890: 	output resolution: 1920x1080
+08:08:52.890: 	downscale filter:  Bilinear
+08:08:52.890: 	fps:               60/1
+08:08:52.890: 	format:            RGBA
+08:08:52.890: 	YUV mode:          None
+08:08:52.890: GPU conversion not available for format: 6
+08:08:52.890: NV12 texture support not available
+08:08:52.896: Audio monitoring device:
+08:08:52.896: 	name: Default
+08:08:52.896: 	id: default
+08:08:52.897: ---------------------------------
+08:08:52.901: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+08:08:52.985: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+08:08:52.985: No blackmagic support
+08:08:53.456: NVENC supported
+08:08:53.456: FFMPEG VAAPI supported
+08:08:53.484: VLC found, VLC video source enabled
+08:08:53.484: ---------------------------------
+08:08:53.484:   Loaded Modules:
+08:08:53.484:     vlc-video.so
+08:08:53.484:     text-freetype2.so
+08:08:53.484:     rtmp-services.so
+08:08:53.484:     obs-x264.so
+08:08:53.484:     obs-transitions.so
+08:08:53.484:     obs-outputs.so
+08:08:53.484:     obs-libfdk.so
+08:08:53.484:     obs-filters.so
+08:08:53.484:     obs-ffmpeg.so
+08:08:53.484:     linux-v4l2.so
+08:08:53.484:     linux-pulseaudio.so
+08:08:53.484:     linux-jack.so
+08:08:53.484:     linux-decklink.so
+08:08:53.484:     linux-capture.so
+08:08:53.484:     linux-alsa.so
+08:08:53.484:     image-source.so
+08:08:53.484:     frontend-tools.so
+08:08:53.484:     decklink-ouput-ui.so
+08:08:53.484: ---------------------------------
+08:08:53.484: ==== Startup complete ===============================================
+08:08:53.485: Service '' not found
+08:08:53.486: All scene data cleared
+08:08:53.486: ------------------------------------------------
+08:08:53.491: pulse-input: Server name: 'pulseaudio 13.0'
+08:08:53.492: pulse-input: Audio format: s24le, 44100 Hz, 2 channels
+08:08:53.492: pulse-input: Sample format s24le not supported by OBS,using float32le instead for recording
+08:08:53.492: pulse-input: Started recording from 'alsa_output.usb-Blue_Microphones_Yeti_Nano_8831B13466040506-00.analog-stereo.monitor'
+08:08:53.492: pulse-input: Server name: 'pulseaudio 13.0'
+08:08:53.492: pulse-input: Audio format: s24le, 44100 Hz, 2 channels
+08:08:53.492: pulse-input: Sample format s24le not supported by OBS,using float32le instead for recording
+08:08:53.492: pulse-input: Started recording from 'alsa_input.usb-Blue_Microphones_Yeti_Nano_8831B13466040506-00.analog-stereo'
+08:08:53.494: Switched to scene 'Scene'
+08:08:53.495: ------------------------------------------------
+08:08:53.495: Loaded scenes:
+08:08:53.495: - scene 'Scene':
+08:08:53.495:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+08:08:53.495: ------------------------------------------------
+08:08:54.114: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Mic/Aux)
+08:08:54.114: 
+08:09:32.002: Settings changed (outputs)
+08:09:32.002: ------------------------------------------------
+08:09:33.238: Failed to open video codec: Invalid argument
+08:09:33.238: ffmpeg_data_init failed
+08:09:33.238: ==== Recording Stop ================================================
+08:09:38.193: Failed to open video codec: Invalid argument
+08:09:38.193: ffmpeg_data_init failed
+08:09:38.193: ==== Recording Stop ================================================
+08:09:53.678: Settings changed (outputs)
+08:09:53.678: ------------------------------------------------
+08:09:55.116: Failed to open video codec: Invalid argument
+08:09:55.116: ffmpeg_data_init failed
+08:09:55.116: ==== Recording Stop ================================================
+08:12:25.071: Settings changed (outputs)
+08:12:25.071: ------------------------------------------------
+08:12:32.424: xshm-input: Geometry 1920x1080 @ 0,0
+08:12:32.427: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Scene'
+08:12:35.830: Failed to parse muxer settings: Invalid argument
+08:12:35.830: -preset ultrafast
+08:12:35.830: ffmpeg_data_init failed
+08:12:35.834: ==== Recording Stop ================================================
+08:18:50.912: Settings changed (outputs)
+08:18:50.912: ------------------------------------------------
+08:18:52.843: ==== Recording Start ===============================================
+08:19:39.834: Output 'adv_ffmpeg_output': stopping
+08:19:39.834: Output 'adv_ffmpeg_output': Total frames output: 1046
+08:19:39.834: Output 'adv_ffmpeg_output': Total drawn frames: 2816 (2820 attempted)
+08:19:39.834: Output 'adv_ffmpeg_output': Number of lagged frames due to rendering lag/stalls: 4 (0.1%)
+08:19:39.838: ==== Recording Stop ================================================
+08:19:39.873: Video stopped, number of skipped frames due to encoding lag: 1023/1071 (95.5%)
+08:20:05.263: adding 23 milliseconds of audio buffering, total audio buffering is now 69 milliseconds (source: Desktop Audio)
+08:20:05.263: 
+08:20:05.425: adding 23 milliseconds of audio buffering, total audio buffering is now 92 milliseconds (source: Desktop Audio)
+08:20:05.425: 
+08:20:07.416: adding 23 milliseconds of audio buffering, total audio buffering is now 116 milliseconds (source: Desktop Audio)
+08:20:07.416: 
+08:20:49.358: Settings changed (outputs)
+08:20:49.358: ------------------------------------------------
+08:20:50.530: Failed to open video codec: Invalid argument
+08:20:50.530: ffmpeg_data_init failed
+08:20:50.535: ==== Recording Stop ================================================
+08:21:19.421: Settings changed (outputs)
+08:21:19.421: ------------------------------------------------
+08:21:20.968: ==== Recording Start ===============================================
+08:21:29.601: Output 'adv_ffmpeg_output': stopping
+08:21:29.601: Output 'adv_ffmpeg_output': Total frames output: 516
+08:21:29.601: Output 'adv_ffmpeg_output': Total drawn frames: 519
+08:21:29.602: ==== Recording Stop ================================================
+08:25:16.752: Settings changed (outputs)
+08:25:16.752: ------------------------------------------------
+08:25:18.689: Failed to open video codec: Invalid argument
+08:25:18.689: ffmpeg_data_init failed
+08:25:18.689: ==== Recording Stop ================================================

@@ -1,0 +1,15 @@
+#!/bin/sh
+
+# Directory Aliases
+alias \
+	ls="ls -la --color=auto --group-directories-first" \
+	cp="cp -iv"  
+
+# Aliases that require higher privilages
+alias \
+	destroy="sudo shutdown -h now" \
+	pack="sudo pacman" 
+
+# Misc Aliases 
+alias \
+	vim="nvim"

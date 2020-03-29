@@ -1,0 +1,6 @@
+{
+    "bitrate": 10000,
+    "level": 42,
+    "qp": 18,
+    "rate_control": "CQP"
+}
